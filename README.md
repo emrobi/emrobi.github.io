@@ -1,4 +1,5 @@
-Experiment
-==========
+=======
+emrobi.github.io
+================
 
-Testing out GitHub. Just seeing how it works and whether or not I want to set up my own git server. Will probably use gitolite on an Ubuntu server.
+Public web site for emrobi. http://emrobi.github.io
